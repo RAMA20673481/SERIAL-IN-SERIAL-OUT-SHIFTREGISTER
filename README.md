@@ -49,4 +49,5 @@ RegisterNumber:G.Ramanujam
 ![Screenshot 2024-12-07 111211](https://github.com/user-attachments/assets/3d70f7f3-fb81-46ac-8f95-d5b09bdea4fa)
 
 **RESULTS**
+
 Thus, the RTL Logic and Timing diagram for Shift Register has been verified and implemented.
